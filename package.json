@@ -1,0 +1,30 @@
+{
+  "name": "so2_orientaatiotehtava",
+  "version": "1.0.0",
+  "description": "Tämä on repository Sovellusohjelmointi 2 -opintojakson orientaatiotehtävän palautukseen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennakuusjarvi/so2_orientaatiotehtava.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jennakuusjarvi/so2_orientaatiotehtava/issues"
+  },
+  "homepage": "https://github.com/jennakuusjarvi/so2_orientaatiotehtava#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@types/node": "^24.3.0"
+  }
+}
